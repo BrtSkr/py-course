@@ -5,7 +5,9 @@ bars = ["Shoolbred's",
         "The Scratcher",
         "ACME",
         "Blind Barber"]
-
+        
+bars = 1;
+print(bars);
 people = ["Mattan",
           "Chris",
           "that person you forgot to text back",
